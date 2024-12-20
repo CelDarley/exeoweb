@@ -1,0 +1,10 @@
+// .vscode/settings.json
+{
+    "pymakr.connection": {
+        "type": "serial",
+        "port": "/dev/ttyACM1",
+        "baudrate": "115200"
+    },
+    "pymakr.autoConnect": true,
+    "pymakr.syncFileTypes": ["py","txt","log","json","xml","html","js","css","mpy"]
+  }
